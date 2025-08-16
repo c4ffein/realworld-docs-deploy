@@ -3,4 +3,4 @@
 
 ---
 
-**[The documentation is deployed on docs.realworld.build](https://docs.realworld.build/)**
+**[The documentation is deployed on docs.realworld.show](https://docs.realworld.show/)**
